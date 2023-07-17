@@ -1,0 +1,7 @@
+{
+  "repo_name": "Magisk Modules Alt Repo",
+  "repo_url": "https://mrepo-magisk-modules-repo.github.io/updates/",
+  "max_num": 3,
+  "show_log": true,
+  "log_dir": "log"
+}
